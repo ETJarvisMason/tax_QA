@@ -2,7 +2,7 @@
 
 This is data and code that contributed to the following dissertation chapter, which is in preparation for publication:
 
-A robust template for increasing taxonomic quality assurance in an era of declining taxonomic capacity 
+**A robust template for increasing taxonomic quality assurance in an era of declining taxonomic capacity** 
 
 *Erica T. Jarvis Mason<sup>1</sup>, Andrew R. Thompson<sup>2</sup>, Brice X. Semmens<sup>1</sup>*
 
