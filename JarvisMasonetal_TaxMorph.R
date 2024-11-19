@@ -1,4 +1,4 @@
-# Jarvis Mason, ET
+# 
 # Explore morphological characters for species delineation and
 # identify the most important characters
 # 2023
