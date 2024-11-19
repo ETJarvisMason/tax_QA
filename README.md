@@ -1,10 +1,10 @@
 # tax_QA
 
-This is data and code that contributed to the following dissertation chapter, which is in preparation for publication:
+This is data and code that has been submitted for publication:
 
 **A robust template for increasing taxonomic quality assurance in an era of declining taxonomic capacity** 
 
-*Erica T. Jarvis Mason<sup>1</sup>, Andrew R. Thompson<sup>2</sup>, Brice X. Semmens<sup>1</sup>*
+*Erica T. Jarvis Mason<sup>1</sup>, William Watson<sup>2</sup>, Andrew R. Thompson<sup>2</sup>, Noelle M. Bowlin<sup>2</sup>, Brice X. Semmens<sup>1</sup>*
 
 <sup>1</sup>Scripps Institution of Oceanography, University of California San Diego, California, USA  
 <sup>2</sup>NOAA Southwest Fisheries Science Center, California, USA  
