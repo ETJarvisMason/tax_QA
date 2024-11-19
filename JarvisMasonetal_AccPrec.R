@@ -1,4 +1,4 @@
-# Jarvis Mason, ET
+# 
 # Quantify accuracy and precision by species, across taxonomists
 # and separately, by species and taxonomist
 # 2023
@@ -12,7 +12,7 @@ library(MCMCvis)
 library(dplyr)
 library(tidyr)
 
-setwd('C:/Users/etmason/Documents/CASeaGrant2018/Morphology/ASawkins')
+
 
 # you may wish to use more than one training data set (here, we use two batches of data)
 # load training data (Batch 1) ---------------------------------------------------------------
